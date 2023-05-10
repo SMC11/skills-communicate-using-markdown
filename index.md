@@ -3,3 +3,6 @@
 ```
 select * From employees;
 ```
+- [ ] break an egg
+- [ ] make an omlete
+- [ ] eat it 
